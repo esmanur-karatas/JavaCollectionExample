@@ -1,6 +1,6 @@
 # NavigableSet Örneği
 
-Bu repository, Java'da `NavigableSet` arabirimini ve `TreeSet` sınıfının kullanımına ilişkin bir örnek içerir. `NavigableSet`, elemanları sıralı bir şekilde tutan ve navigasyon yöntemleri sağlayan bir koleksiyon türüdür.
+Java'da `NavigableSet` arabirimini ve `TreeSet` sınıfının kullanımına ilişkin bir örnek içerir. `NavigableSet`, elemanları sıralı bir şekilde tutan ve navigasyon yöntemleri sağlayan bir koleksiyon türüdür.
 
 ## `NavigableSetExample` Sınıfı
 
